@@ -5,4 +5,4 @@ After downloading this directory, all you do is as follows.
  ./enso_signature.py;
  gnuplot pred.gp
 The predicted values are written as  separate file for each month. 
-Required Python libraries: sys, numpy, sklearnm, esig
+Required Python libraries: sys, numpy, sklearn, esig
