@@ -6,3 +6,5 @@ After downloading this directory, all you do is as follows.
  gnuplot pred.gp
 The predicted values are written as  separate file for each month. 
 Required Python libraries are sys, numpy, scikit-learn, esig.
+For control experiment, run ./endo_signature_cnt.py.
+
