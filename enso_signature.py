@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+# Copyright (C) 2022 Nozomi Sugiura, JAMSTEC <nsugiura@jamstec.go.jp>
+# 
+# License: 3-clause BSD
 def calc_sw(coef,x_train,y_train,ord,dim):
 #sw: Standard partial regression coefficiets
   key=ts.sigkeys(dim,ord).split()
