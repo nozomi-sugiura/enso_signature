@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+# Copyright (C) 2022 Nozomi Sugiura, JAMSTEC <nsugiura@jamstec.go.jp>
+# 
+# License: 3-clause BSD
 import numpy as np
 #import esig.tosig as ts
 from sklearn import linear_model
